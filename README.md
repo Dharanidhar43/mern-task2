@@ -1,1 +1,1 @@
-# mern-tasks
+# mern-tasks (bootstrap and javascript)
